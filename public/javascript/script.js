@@ -14,23 +14,23 @@ const nextBtn = document.getElementById("next");
 const songs = [
     {
         name: "jacinto-1",
-        displayName: "Electric Chill Machine",
-        artist: "Jacinto Design",
+        displayName: "Ludovico Enaudi",
+        artist: "Nuvole Bianche",
     },
     {
         name: "jacinto-2",
-        displayName: "Seven Nation Army (Remix)",
-        artist: "Jacinto Design",
+        displayName: "Ludovico Enaudi",
+        artist: "Una Mattina",
     },
     {
         name: "jacinto-3",
-        displayName: "Goodnight, Disco Queen",
-        artist: "Jacinto Design",
+        displayName: "Hens Zimmer",
+        artist: "Time",
     },
     {
         name: "metric-1",
-        displayName: "Front Row (Remix)",
-        artist: "Metric/Jacinto Design",
+        displayName: "Yann Tiersen",
+        artist: "Die fabelhafte Welt der Amélie",
     },
 ];
 
